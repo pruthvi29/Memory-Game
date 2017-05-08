@@ -37,12 +37,12 @@
     <form id="form1" runat="server">
     <div id ="one">
    <p>VVGB Memory Game</p>
-       <p> Spring -2015<br /></p>
-      <p> Team Members:
-        Sai Dinesh Vallamsetti<br />
-        Shiva Vontela<br />
-        Pruthvi Raj Gourwar<br />
-        Praharsha Bollam
+       <p> Spring <br /></p>
+      <p> Members:
+        Sai <br />
+        Shiva <br />
+        Pruthvi<br />
+        Praharsha 
          </p>
         <p> &nbsp;</p>
         <br />
