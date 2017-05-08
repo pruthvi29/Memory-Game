@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~\Owner\gamesettings.aspx" title="GameSettings"  description="GameSettings">
+        <siteMapNode url="~\Reports\gamehistory.aspx" title="GameHistory"  description="GameHistory" />
+        <siteMapNode url="~\Reports\Topthree.aspx" title="TopThree"  description="TopThree" />
+    </siteMapNode>
+</siteMap>
